@@ -19,7 +19,7 @@ const projects = [
 		tag: 'Data Science',
 		description:
 			'Healthcare data analytics dashboard for Alzheimer research in the US.',
-		url: 'https://heriitage.vercel.app/',
+		url: 'https://alzheimer-henna.vercel.app/',
 		img: 'https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&q=80',
 		tech: ['React', 'Recharts', 'Python'],
 	},
